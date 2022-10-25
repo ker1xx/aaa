@@ -1,0 +1,15 @@
+C:\Users\я\source\repos\prac4\prac4\bin\Debug\net6.0\prac4.exe
+C:\Users\я\source\repos\prac4\prac4\bin\Debug\net6.0\prac4.deps.json
+C:\Users\я\source\repos\prac4\prac4\bin\Debug\net6.0\prac4.runtimeconfig.json
+C:\Users\я\source\repos\prac4\prac4\bin\Debug\net6.0\prac4.dll
+C:\Users\я\source\repos\prac4\prac4\bin\Debug\net6.0\prac4.pdb
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.AssemblyInfoInputs.cache
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.AssemblyInfo.cs
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.dll
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\refint\prac4.dll
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.pdb
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\prac4.genruntimeconfig.cache
+C:\Users\я\source\repos\prac4\prac4\obj\Debug\net6.0\ref\prac4.dll
